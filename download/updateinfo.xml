@@ -9,14 +9,6 @@
 </software>
 
 <software>
-	<name>lokbasis</name>
-	<platform>uc02</platform>
-	<type>test</type>
-	<version>6</version>
-	<filename>lokbasis6.hex</filename>
-</software>
-
-<software>
 	<name>wbcontrol</name>
 	<platform>std</platform>
 	<type>test</type>
