@@ -6,6 +6,7 @@
 	<type>final</type>
 	<version>5</version>
 	<filename>lokbasis_uc02_5.hex</filename>
+	<url>http://github.com/ip-rail/atmega-loco-firmware-lokbasis/releases/download/v5/lokbasis_uc02_5.hex</url>
 </software>
 
 <software>
@@ -14,6 +15,7 @@
 	<type>test</type>
 	<version>24</version>
 	<filename>wbcontrol24.apk</filename>
+	<url>http://ip-rail.github.io/download/wbcontrol24.apk</url>
 </software>
 
 <software>
@@ -22,6 +24,7 @@
 	<type>test</type>
 	<version>99</version>
 	<filename>wbcontrol24.apk</filename>
+	<url>http://ip-rail.github.io/download/wbcontrol24.apk</url>
 </software>
 
 </updateinfo>
